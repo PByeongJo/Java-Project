@@ -3,7 +3,7 @@ public class Main {
 
 	public static void main(String[] args) {
 
-		System.out.println("Park Byeong Jo");
+		System.out.println("¹Úº´Á¶");
 
 	}
 
